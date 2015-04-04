@@ -14,7 +14,7 @@ bash
 >    `$ cat .git/config`
 >
 >     [remote "origin"]
->         url = git@github.com:jiaxianhua/jiaxianhua.github.io.git
+>         url = ssh://551a7df75973ca0c1d00012a@markdown-jiaxianhua.rhcloud.com/~/git/ markdown.git/
 >         fetch = +refs/heads/*:refs/remotes/origin/*
 >
 >    `$ vim .git/config`
