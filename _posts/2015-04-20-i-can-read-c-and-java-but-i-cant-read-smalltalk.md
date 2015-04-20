@@ -8,7 +8,9 @@ tags: [smalltalk, language]
 {% include JB/setup %}
 
 原文:<http://www.eli.sdsu.edu/courses/spring01/cs635/readingSmalltalk.pdf>
+
 标题: I Can Read C++ and Java But I Can’t Read Smalltalk
+
 作者: Wilf LaLonde
 
 {% highlight smalltalk %}
@@ -19,7 +21,9 @@ tags: [smalltalk, language]
 {% endhighlight %}
 
 > := // Means assignment
+>
 > = //Means equality comparison
+>
 > == //Means identity comparison
 
 {% highlight smalltalk %}
