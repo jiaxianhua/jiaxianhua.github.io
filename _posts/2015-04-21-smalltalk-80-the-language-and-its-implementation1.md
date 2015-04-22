@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Smalltalk 80: The Language and Its Implementation"
+title: "Smalltalk 80: The Language and Its Implementation (1)"
 description: ""
 category: book
 tags: [smalltalk, book]
