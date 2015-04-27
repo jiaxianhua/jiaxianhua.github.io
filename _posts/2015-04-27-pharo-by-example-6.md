@@ -12,7 +12,7 @@ tags: [smalltalk, book]
 
 * The **Browser** is the central development tool. You will use it to create, define, and organize your classes and methods. Using it you can also navigate through all the library classes: unlike other environments where the source code is stored in separate files, in Smalltalk all classes and methods are contained in the image.
 * The **Message Names** tool is used to look at all of the methods with a particular selector, or with a selector containing a substring.
-* The Method Finder tool will also let you find methods, but according to what they do as well as what they are called.
+* The **Method Finder** tool will also let you find methods, but according to what they do as well as what they are called.
 * The **Monticello Browser** is the starting point for loading code from, and saving code in, Monticello packages.
 * The **Process Browser** provides a view on all of the processes (threads) executing in Smalltalk.
 * The **Test Runner** lets you run and debug SUnit tests, and is described in Chapter 7.
@@ -24,7 +24,7 @@ tags: [smalltalk, book]
 
 * The standard browser is your main interface for browsing existing cate- gories, classes, method protocols and methods, and for defining new ones. The browser offers several useful buttons to directly jump to senders or implementors of a message, versions of a method, and so on.
 * There exist several different browsers (such as the OmniBrowser and the Refactoring Browser), and several specialized browsers (such as the hierarchy browser) which provide different views of classes and methods.
-* Fromanyofthetools,youcanhighlightthenameofaclassoramethod and immediately jump to a browser by using the keyboard shortcut CMD–b.
+* From any of the tools,you can highlight the name of a class or a method and immediately jump to a browser by using the keyboard shortcut CMD–b.
 * You can also browse the Smalltalk system programmatically by sending messages to SystemNavigation default.
 * Monticello is a tool for exporting, importing, versioning and sharing packages of classes and methods. A Monticello package consists of a category, subcategories, and related methods protocols in other cate- gories.
 * The inspector and the explorer are two tools that are useful for exploring and interacting with live objects in your image. You can even inspect tools by meta-clicking to bring up their morphic halo and selecting the debug handle .
