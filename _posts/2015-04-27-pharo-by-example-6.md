@@ -1,11 +1,14 @@
 ---
 layout: post
-title: "The Pharo programming environment"
+title: "Pharo by Example 6"
 description: ""
 category: smalltalk
 tags: [smalltalk, book]
 ---
 {% include JB/setup %}
+
+## The Pharo programming environment
+---
 
 ### Overview
 ---
