@@ -9,11 +9,16 @@ tags: [xcode, stackoverflow]
 
 <http://stackoverflow.com/questions/18939421/what-should-xcode-6-gitignore-file-include#>
 
-## 1
+## new
+
+Another answer is that there's a website called [gitignore.io](https://www.gitignore.io) , which generates the files based on the .gitignore templates from <https://github.com/github/gitignore>.
+
+
+## old
 
 The easiest answer is that mine looks like this:
 
-{% highlight %}
+{% highlight bash %}
 # Xcode
 .DS_Store
 build/
@@ -37,8 +42,4 @@ Pods
 {% endhighlight %}
 
 which I believe is the same .gitignore that GitHub sets up with all their repositories by default.
-
-## 2
-
-Another answer is that there's a website called "gitignore.io" , which generates the files based on the .gitignore templates from <https://github.com/github/gitignore>.
 
