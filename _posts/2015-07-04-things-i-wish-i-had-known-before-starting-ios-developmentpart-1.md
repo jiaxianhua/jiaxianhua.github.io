@@ -9,7 +9,7 @@ tags: [ios]
 
 ## 英文原文：[Things I wish I had known before starting iOS development—Part 1](https://medium.com/ios-os-x-development/things-i-wish-i-had-known-before-starting-ios-development-part-1-421a05e8447e)
 
-## 翻译原文：[那些在学习iOS开发前就应该知道的事（part 1）](https://medium.com/ios-os-x-development/things-i-wish-i-had-known-before-starting-ios-development-part-1-421a05e8447e)
+## 翻译原文：[那些在学习iOS开发前就应该知道的事（part 1）](http://www.cocoachina.com/ios/20150608/12052.html)
 ---
 
 设计师设计出来了一个不错的引导界面，然而当我看到设计稿的时候，我们的app也没几天就要上线了。这个界面模仿了Evernote iOS app的风格。
