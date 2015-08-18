@@ -1,7 +1,7 @@
 ---
 layout: page
-title: Introduction
-tagline: Supporting tagline
+title: JiaXianhua
+tagline: blog
 ---
 {% include JB/setup %}
 
